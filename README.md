@@ -1,3 +1,19 @@
+## Tutorial information
+https://reactrouter.com/web/api/history
+https://www.npmjs.com/package/node-sass
+https://firebase.google.com/docs/reference/js/firebase.auth.GoogleAuthProvider
+
+https://redux.js.org/basics/actions
+
+
+https://react-redux.js.org/using-react-redux/accessing-store
+
+
+https://www.npmjs.com/package/redux-logger
+
+https://react-redux.js.org/api/connect
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
