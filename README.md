@@ -17,7 +17,7 @@ https://react-redux.js.org/api/connect
 https://www.npmjs.com/package/reselect
 
 
-
+https://www.npmjs.com/package/redux-persist
 
 
 
