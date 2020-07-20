@@ -15,7 +15,7 @@ import {selectCurrentUser} from '../../redux/user/user.selectors'
 
 const Header =({ currentUser, hidden }) =>{  
     return (
-        <div className="header">
+        <div className="header"> Karl Doudy Angrand
         <Link className="logo-container" to="/">
             <Logo className="logo" />
         </Link>

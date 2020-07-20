@@ -15,7 +15,8 @@ https://react-redux.js.org/api/connect
 
 
 https://www.npmjs.com/package/reselect
-
+### command to create
+heroku create kagamax --buildpack https://github.com/mars/create-react-app-buildpack.git
 
 https://www.npmjs.com/package/redux-persist
 
