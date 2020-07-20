@@ -20,7 +20,16 @@ https://www.npmjs.com/package/reselect
 https://www.npmjs.com/package/redux-persist
 
 
+### some good projects
+https://github.com/basir/node-react-ecommerce
+https://github.com/kaloraat/react-node-ecommerce
+https://github.com/kaloraat/react-node-next-multi-user-blogging-platform
+https://github.com/Phonekham/mern-seoBlog
+https://github.com/ilkinguluzada/MERNStackCourseFiles
 
+
+
+### ### ###  ## ###
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
